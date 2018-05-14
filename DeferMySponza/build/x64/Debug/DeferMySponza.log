@@ -1,0 +1,73 @@
+﻿  tdk.pubs pre-build ...
+  ... done
+  MyView.cpp
+source\MyView.cpp(412): warning C4312: 'type cast': conversion from 'unsigned int' to 'void *' of greater size
+source\MyView.cpp(492): warning C4312: 'type cast': conversion from 'unsigned int' to 'void *' of greater size
+source\MyView.cpp(812): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+source\MyView.cpp(814): warning C4267: '=': conversion from 'size_t' to 'GLuint', possible loss of data
+source\MyView.cpp(815): warning C4267: '=': conversion from 'size_t' to 'GLuint', possible loss of data
+source\MyView.cpp(816): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+source\MyView.cpp(849): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  DeferMySponza.vcxproj -> U:\RealTime Graphics\Assignment 2\ICA 3\build\bin\x64\Debug\DeferMySponza.exe
+  DeferMySponza.vcxproj -> U:\RealTime Graphics\Assignment 2\ICA 3\build\bin\x64\Debug\DeferMySponza.pdb (Full PDB)
+  tdk application post-build ...
+  doc\readme.txt
+  1 File(s) copied
+  ... done
+  tdk post-build ...
+  doc\readme.txt
+  1 File(s) copied
+  File not found - *
+  0 File(s) copied
+  shaders\gbuffer_fs.glsl
+  shaders\directional_light_vs.glsl
+  shaders\gbuffer_vs.glsl
+  shaders\shadow_depth_fs.glsl
+  shaders\point_light_vs.glsl
+  shaders\point_light_fs.glsl
+  shaders\spot_light_fs.glsl
+  shaders\spot_light_vs.glsl
+  shaders\shadow_depth_vs.glsl
+  shaders\post_process_vs.glsl
+  shaders\post_process_fs.glsl
+  shaders\directional_light_fs.glsl
+  12 File(s) copied
+  U:\RealTime Graphics\Assignment 2\ICA 3\external\bin\x64\tcf.dll
+  1 File(s) copied
+  U:\RealTime Graphics\Assignment 2\ICA 3\external\bin\x64\tsl.dll
+  1 File(s) copied
+  U:\RealTime Graphics\Assignment 2\ICA 3\external\bin\x64\nvToolsExt64_1.dll
+  1 File(s) copied
+  U:\RealTime Graphics\Assignment 2\ICA 3\external\bin\x64\glfw3.dll
+  1 File(s) copied
+  U:\RealTime Graphics\Assignment 2\ICA 3\external\bin\x64\tdl.dll
+  1 File(s) copied
+  ... done
+  tdk.pubs post-build ...
+  U:\RealTime Graphics\Assignment 2\ICA 3\build\bin\x64\Debug\glfw3.dll
+  U:\RealTime Graphics\Assignment 2\ICA 3\build\bin\x64\Debug\nvToolsExt64_1.dll
+  U:\RealTime Graphics\Assignment 2\ICA 3\build\bin\x64\Debug\tcf.dll
+  U:\RealTime Graphics\Assignment 2\ICA 3\build\bin\x64\Debug\tdl.dll
+  U:\RealTime Graphics\Assignment 2\ICA 3\build\bin\x64\Debug\tsl.dll
+  U:\RealTime Graphics\Assignment 2\ICA 3\build\bin\x64\Debug\DeferMySponza.idb
+  U:\RealTime Graphics\Assignment 2\ICA 3\build\bin\x64\Debug\DeferMySponza.pdb
+  U:\RealTime Graphics\Assignment 2\ICA 3\build\bin\x64\Debug\DeferMySponza.exe
+  U:\RealTime Graphics\Assignment 2\ICA 3\build\bin\x64\Debug\DeferMySponza.ilk
+  U:\RealTime Graphics\Assignment 2\ICA 3\build\bin\x64\Debug\readme.txt
+  U:\RealTime Graphics\Assignment 2\ICA 3\build\bin\x64\Debug\gbuffer_fs.glsl
+  U:\RealTime Graphics\Assignment 2\ICA 3\build\bin\x64\Debug\directional_light_vs.glsl
+  U:\RealTime Graphics\Assignment 2\ICA 3\build\bin\x64\Debug\gbuffer_vs.glsl
+  U:\RealTime Graphics\Assignment 2\ICA 3\build\bin\x64\Debug\shadow_depth_fs.glsl
+  U:\RealTime Graphics\Assignment 2\ICA 3\build\bin\x64\Debug\point_light_vs.glsl
+  U:\RealTime Graphics\Assignment 2\ICA 3\build\bin\x64\Debug\point_light_fs.glsl
+  U:\RealTime Graphics\Assignment 2\ICA 3\build\bin\x64\Debug\spot_light_fs.glsl
+  U:\RealTime Graphics\Assignment 2\ICA 3\build\bin\x64\Debug\spot_light_vs.glsl
+  U:\RealTime Graphics\Assignment 2\ICA 3\build\bin\x64\Debug\shadow_depth_vs.glsl
+  U:\RealTime Graphics\Assignment 2\ICA 3\build\bin\x64\Debug\post_process_vs.glsl
+  U:\RealTime Graphics\Assignment 2\ICA 3\build\bin\x64\Debug\post_process_fs.glsl
+  U:\RealTime Graphics\Assignment 2\ICA 3\build\bin\x64\Debug\directional_light_fs.glsl
+  22 File(s) copied
+  U:\RealTime Graphics\Assignment 2\ICA 3\content\sponza_with_friends_2x.tcf
+  U:\RealTime Graphics\Assignment 2\ICA 3\content\Thumbs.db
+  2 File(s) copied
+  ... done
